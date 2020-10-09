@@ -6,8 +6,8 @@
   "author": "It's me chill",
   "private": false,
   "homepage": "https://github.com/DarienFoo/chill-music-bot",
-  "repository": "github:eritislami/evobot",
-  "bugs": "https://github.com/eritislami/evobot/issues",
+  "repository": "github:DarienFoo/chill-music-bot",
+  "bugs": "https://github.com/DarienFoo/chill-music-bot/issues",
   "engines": {
     "node": ">=12.0.0"
   },
