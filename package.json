@@ -1,5 +1,5 @@
 {
-  "name": "chill-music-bot",
+  "name": "chillmusicbot",
   "version": "0.7.0",
   "description": "Discord music bot built with discord.js",
   "main": "index.js",
