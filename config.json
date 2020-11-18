@@ -1,6 +1,6 @@
 {
   "YOUTUBE_API_KEY": "AIzaSyC16eI_js--2VkxJTcoe3uhPJW4A_PlIks",
-  "SOUNDCLOUD_CLIENT_ID": "https://api.soundcloud.com/tracks/322109493/download?client_id=2t9loNQH90kzJcsFCODdigxfp325aq4z&oauth_token=2-274121-85658-y9KQYyZ6qG9oT2uvPq",
+  "SOUNDCLOUD_CLIENT_ID": "2t9loNQH90kzJcsFCODdigxfp325aq4z",
   "MAX_PLAYLIST_SIZE": 999999999999999,
   "PREFIX": "chillm!",
   "PRUNING": false
